@@ -8,3 +8,4 @@
 | # | Open Source | Product(s) | Language(s) |
 | :----: | :-: | :----: | :----: |
 | valorant.aesirdev.tech | [✅](https://github.com/HollowHuu/valorant.aesirdev.tech) | Website, API | TS
+| Lunar Bot | [✅](https://github.com/HollowHuu/lunar-bot) | Discord Bot | Rust
