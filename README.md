@@ -18,3 +18,11 @@
 [NicolasWK05](https://github.com/Aesir-Development/yugioh-backend)
 
  _...Pretty empty right now_
+
+```rust
+func main() -> string {
+ return "What else do I put here?".to_string();
+}
+
+println(main());
+```
