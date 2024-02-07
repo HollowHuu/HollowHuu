@@ -9,6 +9,7 @@
 | :----: | :-: | :----: | :----: |
 | lunar-web | [✅](https://github.com/HollowHuu/lunar-web) | Website, API | TS
 | Lunar Bot | [✅](https://github.com/HollowHuu/lunar-bot) | Discord Bot (abandoned) | Rust
+| Aesir Bot | [✅](https://github.com/HollowHuu/aesir-bot) | Private Discord Bot | JS
 | yugioh-backend | [✅](https://github.com/Aesir-Development/yugioh-backend) | Backend, API | Go
 
 <br>
