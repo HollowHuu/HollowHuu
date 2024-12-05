@@ -12,7 +12,7 @@
 | Aesir Bot | [✅](https://github.com/HollowHuu/aesir-bot) | Private Discord Bot | JS
 | yugioh-backend | [✅](https://github.com/Aesir-Development/yugioh-backend) | Backend, API | Go
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=radical&show_icons=true&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hollowhuu&langs_count=8&theme=radical&show_icons=true&layout=donut)
 <br>
 
 
