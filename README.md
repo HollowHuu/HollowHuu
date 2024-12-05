@@ -2,7 +2,7 @@
 ### About me
 * Data Technician student 📚
 * Full stack web developer 🕸️
-* 18 Years Old 👦
+* 3D Print enthusiast 🖨
 
 #### Projects
 | # | Open Source | Product(s) | Language(s) |
@@ -12,11 +12,10 @@
 | Aesir Bot | [✅](https://github.com/HollowHuu/aesir-bot) | Private Discord Bot | JS
 | yugioh-backend | [✅](https://github.com/Aesir-Development/yugioh-backend) | Backend, API | Go
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=radical&show_icons=true&layout=donut)
 <br>
 
 
-#### School account
-[NicolasWK05](https://github.com/Aesir-Development/yugioh-backend)
 
  _...Pretty empty right now_
 
